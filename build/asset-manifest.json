@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf934e9c.css",
+    "main.js": "/static/js/main.a70df872.js",
+    "static/media/splash-min.jpg": "/static/media/splash-min.01f91664419f7202145e.jpg",
+    "static/media/alpha_plane.png": "/static/media/alpha_plane.1598532893635c4cc3e9.png",
+    "index.html": "/index.html",
+    "main.bf934e9c.css.map": "/static/css/main.bf934e9c.css.map",
+    "main.a70df872.js.map": "/static/js/main.a70df872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf934e9c.css",
+    "static/js/main.a70df872.js"
+  ]
+}
